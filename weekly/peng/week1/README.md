@@ -6,5 +6,5 @@
 
 # 下周计划
 
-* `java-web`入门
+* `android`入门
 
